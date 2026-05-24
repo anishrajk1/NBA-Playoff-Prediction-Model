@@ -1,5 +1,0 @@
-nba_api
-pandas
-scikit-learn
-seaborn
-matplotlib
